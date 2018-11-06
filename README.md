@@ -1,4 +1,4 @@
-# Basics
+## Basic Rules
 
 >GIST AILAB [[site]](http://ai.gist.ac.kr/)
 
