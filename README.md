@@ -17,6 +17,15 @@
 
 **[2]** Schaul, Tom, et al. "**Prioritized experience replay**." arXiv. (2015). [[pdf]](https://arxiv.org/abs/1511.05952.pdf) : *Seunghyeok Back*
 
+**[3]** Continuous Deep Q-Learning with Model-based Acceleration, S. Gu et al., ICML, 2016.
+[[pdf]](https://arxiv.org/pdf/1603.00748.pdf) by *JongHyeok Kang(kingworm)*
+
+**[[4]]** Towards Vision-Based Deep Reinforcement Learning for Robotic Motion Control, F. Zhang et al., arXiv, 2015.
+[[pdf]](https://arxiv.org/pdf/1511.03791.pdf) by *JongHyeok Kang(kingworm)*
+
+**[[5]]** Deep Reinforcement Learning in Parameterized Action Space, M. Hausknecht et al., ICLR, 2016.
+[[pdf]](https://arxiv.org/pdf/1511.04143.pdf) by *JongHyeok Kang(kingworm)*
+
 ## Policy
 
 ## Discrete Control
