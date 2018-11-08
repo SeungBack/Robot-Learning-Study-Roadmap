@@ -15,7 +15,7 @@
 
 **[1]** Van Hasselt, Hado, Arthur Guez, and David Silver. "**Deep Reinforcement Learning with Double Q-Learning**."  AAAI. Vol. 2. (2016). [[pdf]](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/12389/11847) [[ppt]](https://www.slideshare.net/SeungHyeokBaek/deep-reinforcement-learning-with-double-q-learning) by *Seunghyeok Back* 
 
-**[2]** Schaul, Tom, et al. "**Prioritized experience replay**." arXiv. (2015). [[pdf]](https://arxiv.org/abs/1511.05952.pdf) : *Seunghyeok Back*
+**[2]** Schaul, Tom, et al. "**Prioritized experience replay**." ICLR. (2016). [[pdf]](https://arxiv.org/abs/1511.05952.pdf) : *Seunghyeok Back*
 
 **[3]** Continuous Deep Q-Learning with Model-based Acceleration, S. Gu et al., ICML, 2016.
 [[pdf]](https://arxiv.org/pdf/1603.00748.pdf) by *JongHyeok Kang(kingworm)*
