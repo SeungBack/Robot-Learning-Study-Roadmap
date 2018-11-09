@@ -4,7 +4,9 @@
 
 - RL study seminar every Friday
 - 1 paper review per person 
-- Any papers related with RL ([[deep-RL-papers]](https://github.com/junhyukoh/deep-reinforcement-learning-papers)))
+- Any papers related with RL 
+- [[deep-RL-papers (junhyukoh)]](https://github.com/junhyukoh/deep-reinforcement-learning-papers))
+- [[key Papers in Deep RL (OpenAI)]](https://spinningup.openai.com/en/latest/spinningup/keypapers.html))
 - Upload presentation files on SlideShare
 
 ---------------------------------------
