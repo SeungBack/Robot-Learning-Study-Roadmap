@@ -30,6 +30,8 @@ fasdf
 
 ## Policy
 
+**[1]** Mnih, Volodymyr, et al. "**Asynchronous methods for deep reinforcement learning**" International conference on machine learning. 2016. [[pdf]](https://arxiv.org/abs/1602.01783) by *Seunghyeok Back* 
+
 ## Discrete Control
 
 ## Robotics
