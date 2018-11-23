@@ -28,6 +28,9 @@ fasdf
 **[5]** Deep Reinforcement Learning in Parameterized Action Space, M. Hausknecht et al., ICLR, 2016.
 [[pdf]](https://arxiv.org/pdf/1511.04143.pdf) by *JongHyeok Kang(kingworm)*
 
+**[6]** Deep Successor Reinforcement Learning, TD. Kulkarni ex al., arXiv, 2016.
+[[pdf]](https://arxiv.org/pdf/1606.02396.pdf) by *Deokhwan Park(ddungi1004)*
+
 ## Policy
 
 **[1]** Mnih, Volodymyr, et al. "**Asynchronous methods for deep reinforcement learning**" International conference on machine learning. 2016. [[pdf]](https://arxiv.org/abs/1602.01783) by *Seunghyeok Back* 
