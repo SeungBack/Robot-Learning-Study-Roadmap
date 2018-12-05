@@ -28,8 +28,10 @@ fasdf
 **[5]** Deep Reinforcement Learning in Parameterized Action Space, M. Hausknecht et al., ICLR, 2016.
 [[pdf]](https://arxiv.org/pdf/1511.04143.pdf) by *JongHyeok Kang(kingworm)*
 
-**[6]** TD. Kulkarni ex al., "**Deep Successor Reinforcement Learning**", arXiv, 2016.
+**[6]** TD. Kulkarni et al., "**Deep Successor Reinforcement Learning**", arXiv, 2016.
 [[pdf]](https://arxiv.org/pdf/1606.02396.pdf) by *Deokhwan Park(ddungi1004)*
+
+**[7]** Aravind S. L. et al., "**Dynamic Frarme skip Deep Q Network**", arXiv, 2016.
 
 ## Policy
 
