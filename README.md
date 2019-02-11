@@ -8,7 +8,7 @@
 - [[deep-RL-papers (junhyukoh)]](https://github.com/junhyukoh/deep-reinforcement-learning-papers))
 - [[key Papers in Deep RL (OpenAI)]](https://spinningup.openai.com/en/latest/spinningup/keypapers.html))
 - Upload presentation files on SlideShare
-fasdf
+
 ---------------------------------------
 
 # Reinforcement Learning Study Materials
