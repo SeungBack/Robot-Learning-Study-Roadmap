@@ -1,9 +1,10 @@
-## Basic Rules
+# Reinforcement Learning Study Materials
 
->GIST AILAB [[site]](http://ai.gist.ac.kr/)
+## About
 
-- RL study seminar every Friday
-- 1 paper review per person 
+Admin: seunghyeok back
+> GIST AILAB [[site]](http://ai.gist.ac.kr/)
+
 - Any papers related with RL 
 - [[deep-RL-papers (junhyukoh)]](https://github.com/junhyukoh/deep-reinforcement-learning-papers))
 - [[key Papers in Deep RL (OpenAI)]](https://spinningup.openai.com/en/latest/spinningup/keypapers.html))
@@ -11,7 +12,6 @@
 
 ---------------------------------------
 
-# Reinforcement Learning Study Materials
 
 ## Value
 
