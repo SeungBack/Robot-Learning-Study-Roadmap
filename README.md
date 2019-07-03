@@ -1,20 +1,27 @@
-# Reinforcement Learning Study Materials
+# About
 
-## About
+- This page tracks the roadmap of reinforcement learning study materials, especially for the applications in robot learning  
+- The study materials include the list of papers, presentation file, youtube links, codes, tutorials, and another paper roadmaps for the study of RL.
+- Admin: [seunghyeok back](https://ai.gist.ac.kr/prog/gsPerson/ai/S/view.do) in GIST AILAB [[site]](http://ai.gist.ac.kr/)
 
-Admin: seunghyeok back
-> GIST AILAB [[site]](http://ai.gist.ac.kr/)
+## Table of Contents
+---
 
-- Any papers related with RL 
-- [[deep-RL-papers (junhyukoh)]](https://github.com/junhyukoh/deep-reinforcement-learning-papers))
-- [[key Papers in Deep RL (OpenAI)]](https://spinningup.openai.com/en/latest/spinningup/keypapers.html))
-- Upload presentation files on SlideShare
+- [Papers](#papers)
+    - [Value](#value)
+    - [Policy](#policy)
+    - [Visuomotor](#visuomotor)
+    - [Sim-to-Real Transfer](#sim-to-real-transfer)
+    - [Etc](#etc)
+- [Roadmaps](#roadmaps)
 
----------------------------------------
 
 
-## Value
+##Papers
+---
 
+###Value
+---
 * Mnih, Volodymyr, et al. "**Playing atari with deep reinforcement learning.**" arXiv preprint arXiv:1312.5602 (2013).
 
 * Mnih, Volodymyr, et al. "**Human-level control through deep reinforcement learning.**" Nature 518.7540 (2015): 529.
@@ -39,8 +46,8 @@ Admin: seunghyeok back
 
 *  Aravind S. L. et al., "**Dynamic Frarme skip Deep Q Network**", arXiv, 2016.
 
-## Policy
-
+###Policy
+---
 * Mnih, Volodymyr, et al. "**Asynchronous methods for deep reinforcement learning**" International conference on machine learning. 2016. [[pdf]](https://arxiv.org/abs/1602.01783) [[ppt]](https://www.slideshare.net/SeungHyeokBaek/181123-asynchronous-method-for-deep-reinforcement-learning-seunghyeok-back) by *Seunghyeok Back*  
 
 * Levine, Sergey, et al. "**End-to-end training of deep visuomotor policies.**" The Journal of Machine Learning Research 17.1 (2016): 1334-1373.
@@ -50,8 +57,8 @@ Admin: seunghyeok back
 * Schulman, John, et al. "**Proximal policy optimization algorithms.**" arXiv preprint arXiv:1707.06347 (2017).
 
 
-## Visuomotor (Sim-to-Real Transfer, One/Few-shot Learning, Imitation Learning)
-
+### Visuomotor
+---
 * Levine, Sergey, et al. "**Learning hand-eye coordination for robotic grasping with deep learning and large-scale data collection.**" The International Journal of Robotics Research 37.4-5 (2018): 421-436.
 
 * Zhu, Yuke, et al. "**Reinforcement and imitation learning for diverse visuomotor skills.**" arXiv preprint arXiv:1802.09564 (2018).
@@ -60,8 +67,8 @@ Admin: seunghyeok back
 
 * Yu, Tianhe, et al. "**One-Shot Hierarchical Imitation Learning of Compound Visuomotor Tasks.**" arXiv preprint arXiv:1810.11043 (2018).
 
-## Sim-to Real Transfer
-
+### Sim-to-Real Transfer
+---
 * Wulfmeier, Markus, Ingmar Posner, and Pieter Abbeel. "**Mutual alignment transfer learning.**" arXiv preprint arXiv:1707.07907 (2017).
 
 * Rusu, Andrei A., et al. "**Sim-to-Real Robot Learning from Pixels with Progressive Nets.**" Conference on Robot Learning. 2017.
@@ -73,10 +80,15 @@ Admin: seunghyeok back
 * Tan, Jie, et al. "**Sim-to-Real: Learning Agile Locomotion For Quadruped Robots.**" arXiv preprint arXiv:1804.10332 (2018).
 
 
-## Curiosity-driven RL
-
+### Curiosity-driven RL
+---
 * Haber, Nick, et al. "**Learning to Play with Intrinsically-Motivated Self-Aware Agents.**" arXiv preprint arXiv:1802.07442 (2018).
 
-## Etc
-
+### Etc
+---
 * Ho, Jonathan, and Stefano Ermon. "**Generative adversarial imitation learning.**" Advances in Neural Information Processing Systems. 2016.
+
+## Roadmaps
+---
+* [[deep-RL-papers (junhyukoh)]](https://github.com/junhyukoh/deep-reinforcement-learning-papers))
+* [[key Papers in Deep RL (OpenAI)]](https://spinningup.openai.com/en/latest/spinningup/keypapers.html))
