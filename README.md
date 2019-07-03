@@ -17,10 +17,10 @@
 
 
 
-##Papers
+## Papers
 ---
 
-###Value
+### Value
 ---
 * Mnih, Volodymyr, et al. "**Playing atari with deep reinforcement learning.**" arXiv preprint arXiv:1312.5602 (2013).
 
@@ -46,7 +46,7 @@
 
 *  Aravind S. L. et al., "**Dynamic Frarme skip Deep Q Network**", arXiv, 2016.
 
-###Policy
+### Policy
 ---
 * Mnih, Volodymyr, et al. "**Asynchronous methods for deep reinforcement learning**" International conference on machine learning. 2016. [[pdf]](https://arxiv.org/abs/1602.01783) [[ppt]](https://www.slideshare.net/SeungHyeokBaek/181123-asynchronous-method-for-deep-reinforcement-learning-seunghyeok-back) by *Seunghyeok Back*  
 
